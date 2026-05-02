@@ -1,3 +1,40 @@
-why do use Simulink over other debelopment Tools ?
-.same environment for development and testing 
-.
+why do use Simulink over other debelopment Tools ???????
+.same environment for development and testing which leads to resolving logic software remated issues in the initial development stage
+.is auto code  generation 
+.is graphical design because visualization of visualization of logic better than reading thousand lines of code
+when to use Simulink and when to use straight flow ???????
+.Use Simulink → for Mathematical equation and instantaneous operation  
+.straight flow → for Event-driven logic 
+what is solvent ??????
+numerical methods to solve an equation so your model is treated as an equation and this solver helps to give you 
+the approximate output for your model 
+----there are two types of solvent
+fixed →it takes fixed interval of time step
+variable →takes variable steps to solve the equation of model 
+--- which one to use for real time application ????????????
+answer is : fixed because if you flash your software on a controller your controller will be operating at a particular frequency
+it cannot magically change as per the rate of change of your signal
+what is the diffrence in sample time and execution time ????
+execution time : is the total time for which your simulation runs . can be equal to sample time or greater than the sample time 
+the sample time : will remain constant . will always be the smallest entity. is the rate at which the blocks would update its values  
+video 2
+why we need sub system ?????
+.to make your model look more simplified 
+.sometimes due to design requirements 
+difference between virtual and non virtual subsystem ?????
+virtual subsystem :the ordre for blocks will remain same so this is just for graphical representation to make model look
+more simplified
+non virtual subsytem(atomic subsystem):brak 3la chik (Treat as atomic unit):::: each subsystem is treated as separate entity and when you 
+execute it once the execution enters a particular non virtual subsystem it executes all bloks inside it and the exits 
+...and also get to choose the type of function packaging you want to use for code generation 
+design counter
+difference between enabled and triggered subsytem??????
+enabled subsytem so when enable condition when it is greater than 0 it will start updating once the signal is 0 or less than 0 it will either
+hold or reset the output on this selection that is states when enabling hold or reset  
+
+
+
+difference between transition and condition action??????
+difference between mux and merge and bus creator 
+mux i can put the number of inputs but i can't put the type 
+bus creator i can put the number of input and i can put the type
