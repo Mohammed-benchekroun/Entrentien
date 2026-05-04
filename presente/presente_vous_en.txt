@@ -1,0 +1,17 @@
+Hello, my name is Mohammed BENCHEKROUN LAKRIMI, a Master’s student in Electrical Engineering and Embedded Systems. I am currently completing my internship within your company, and today I would like to present how my experience here has prepared me to join your new project.
+
+My background has allowed me to build a solid foundation. During my Bachelor’s Final Year Project, I developed a fire detection system using image processing (YOLO, Python, Google Colab). This project taught me how to handle real-time data streams and validate my electronic concepts using Proteus.
+
+It is during my current internship, under the supervision of Anas Bourissai, that I acquired a true industrial work methodology. I understood that development does not start with coding, but with a rigorous Architecture and Design phase. My strength today lies in implementing full traceability across the software lifecycle:
+
+Requirements Management (Jira): Everything begins with analyzing and centralizing requirements in Jira.
+Test Strategy (Xray): I directly link each requirement to a specific test plan in Xray, ensuring that every requested feature is technically verified.
+Development and Versioning (GitHub): I integrate code (C, Java) by linking each commit and branch to a Jira task.
+
+This closed loop — Requirements → Tests → Code — ensures that the final product is reliable, well-documented, and free of regression. This is the rigor I apply to the robotic arm monitoring project.
+
+4. Methodology and Teamwork (45 seconds)
+I am comfortable working with both the V-Model for structure and Scrum for agility. Anas’s guidance enabled me to quickly integrate these processes. I also learned the importance of team communication to resolve blockers and ensure consistency in the overall architecture.
+
+5. Conclusion: Ready for What’s Next (30 seconds)
+Today, I master your tools and quality standards. Although I have a strong affinity for development, my priority remains system reliability. I am ready to apply this culture of testing and traceability to your MATLAB/Simulink projects with the same level of rigor.

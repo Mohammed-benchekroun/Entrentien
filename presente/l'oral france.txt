@@ -1,0 +1,14 @@
+Bon voila Bonjour,
+Je m’appelle Mohammed BENCHEKROUN LAKRIMI . J’ai obtenu mon baccalauréat en sciences mathématiques B, ce qui m’a permis de développer de solides bases en logique et en analyse scientifique.
+J’ai ensuite poursuivi une licence en sciences de l’ingénieur à la Faculté des Sciences et Techniques, avec une spécialisation en informatique industrielle et instrumentation. Cette formation m’a permis d’acquérir des compétences en programmation, automatisation , en électricité et électronique numérique
+Dans le cadre de ma formation, j’ai réalisé un projet de fin d’études intitulé « système automatique de détection de feu en temps réel par traitement d'image ». Ce projet m’a donné l’occasion d’appliquer mes connaissances en instrumentation et en traitement de données.
+Aujourd’hui, je souhaite intégrer le master en ingénierie électrique et systèmes embarqués, car il représente une continuité logique de mon parcours et correspond parfaitement à mes aspirations professionnelles. Je suis particulièrement motivé par les domaines de l’électronique, de l’automatique et des systèmes embarqué
+systèmes embarqués
+Un système embarqué, c’est un système informatique intégré dans un appareil pour réaliser une tâche spécifique en temps réel.
+On le retrouve par exemple dans les voitures avec l’ABS, dans les drones ou dans les caméras intelligentes.
+Techniquement, il associe un matériel électronique (microcontrôleur, capteurs, actionneurs) et un logiciel optimisé pour être rapide, fiable et économe en ressources.
+
+pour mon projet de fin d’études, j’ai développé un système de détection de départs de feu en temps réel. J’ai utilisé une petite caméra embarquée (ESP32-CAM) et un modèle d’intelligence artificielle (YOLOv8) que j’ai entraîné moi-même pour reconnaître la différence entre la fumée et un vrai départ de feu. L’idée était de créer un système capable de prévenir rapidement les responsables par e-mail, pour protéger des environnements sensibles comme les forêts ou les oasis.
+
+J’ai choisi ce projet parce que je voulais appliquer mes connaissances en programmation, en instrumentation et en systèmes embarqués à un problème concret. La détection précoce des incendies est un sujet utile et motivant.
+J’ai effectué ma licence en quatre ans au lieu de trois. La raison est qu’au cours de ma première année, j’ai eu une petite fracture suite à une chute de vélo, ce qui m’a empêché de passer certains examens. Mais cette expérience m’a appris à persévérer, à mieux m’organiser et à travailler en profondeur mes bases scientifiques. Aujourd’hui, je considère que cette année supplémentaire m’a rendu plus solide et mieux préparé pour réussir un master exigeant comme celui-ci.

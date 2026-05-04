@@ -1,0 +1,76 @@
+Bonjour 
+
+Je m'appelle Mohammed Benchekroun Lakrimi. Je suis actuellement étudiant en première année de Master en Ingénierie Électrique et Systèmes Embarqués à la Faculté des Sciences et Techniques, et je réalise mon stage au sein de votre entreprise.
+
+Aujourd’hui, je  vous présenter mon parcours technique ainsi que la méthodologie de travail que j’ai développée, afin de vous montrer ma motivation à intégrer ce nouveau projet.
+Mon projet de fin d’études de licence : un système de détection de feu
+
+Mon Projet de Fin d’Études de Licence, réalisé en binôme 
+L’objectif était de concevoir un système capable de détecter automatiquement la présence de feu.
+
+Au départ, nous avons exploré l’utilisation de capteurs classiques. Cependant, après plusieurs recherches et tests, nous avons constaté des limites importantes en termes de fiabilité.
+
+Nous avons donc orienté notre solution vers l’intelligence artificielle, en utilisant l’algorithme YOLO.
+
+Concrètement, j’ai participé à :
+
+la collecte et la préparation de la base de données d’images,
+l’entraînement du modèle sur Google Colab,
+le développement du script Python sous VS Code pour l’inférence.
+
+Pour le déploiement, nous avons utilisé une carte ESP32-CAM avec un système de rotation à 360 degrés afin d’assurer une couverture complète. La commande des moteurs a été validée par simulation sur Proteus avant l’implémentation réelle.
+
+👉 Il est également important de préciser que j’ai personnellement financé l’achat du matériel, ce qui m’a permis d’aller jusqu’au bout du projet et de le concrétiser en conditions réelles.
+
+Le résultat est un système autonome capable de détecter le feu et d’envoyer automatiquement une alerte par e-mail.
+C'est durant mon stage actuel, sous l'encadrement d'Anas Bourissai, que j'ai acquis une véritable méthodologie de travail industrielle. J'ai compris que le développement ne commence pas par le code, mais par une phase d'Architecture et de Design rigoureuse.
+C’est durant mon stage actuel, sous l’encadrement de Monsieur Anas Bourissai, que j’ai acquis une véritable méthodologie de travail industrielle, à travers le projet « Capteur de position pour bras robotique ».
+
+J’ai compris que le développement efficace ne commence pas par le code, mais par une phase d’architecture et de design rigoureuse.
+
+🔹 Une approche agile et structurée
+
+Au sein d’une équipe de 4 personnes, nous combinons deux approches complémentaires :
+le Cycle en V pour la structure globale, et la méthodologie Scrum pour la réactivité.
+
+Concrètement, notre organisation est basée sur :
+
+3 sprints, d’une durée d’une semaine chacun,
+un Sprint Planning au début de chaque sprint,
+des réunions quotidiennes pour suivre l’avancement,
+et à la fin de chaque sprint, une Sprint Review suivie d’une Rétrospective pour valider le travail réalisé et améliorer notre organisation.
+
+Chaque sprint est encadré par un ou deux Scrum Masters, ce qui facilite la coordination de l’équipe.
+
+Enfin, tout le code est centralisé sur GitHub, ce qui garantit une collaboration efficace et un bon suivi des versions.
+
+🔹 Mon rôle dans le projet
+
+Dans ce projet, mon rôle consiste principalement à :
+
+contribuer au développement logiciel, notamment en C et en Java,
+participer à la mise en place de la traçabilité entre exigences, tests et code,
+et intervenir dans la validation des fonctionnalités à travers des tests unitaires.
+
+Cela me permet d’avoir une vision complète du cycle de développement, de la spécification jusqu’à la validation.
+
+🔹 Traçabilité et qualité : une logique de boucle fermée
+
+Nous appliquons une logique de boucle fermée :
+👉 Exigences → Tests → Code
+
+Les besoins sont centralisés dans Jira,
+Chaque exigence est liée à un plan de test dans Xray,
+Et chaque partie du code est associée à une tâche Jira via GitHub.
+
+Cette approche permet d’éviter les régressions et de garantir un système fiable.
+
+est pour Conclusion
+
+Cette expérience m’a permis de maîtriser les standards de qualité industriels, tout en développant une forte capacité de communication et de travail en équipe.
+
+Même si j’ai une grande affinité pour le développement technique, ma priorité reste toujours la fiabilité du système.
+
+Je suis convaincu que cette rigueur me permettra d’apporter une réelle valeur ajoutée à votre projet.
+
+Je vous remercie pour votre attention, et je suis à votre disposition pour répondre à vos questions.
